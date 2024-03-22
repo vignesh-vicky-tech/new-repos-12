@@ -7,7 +7,7 @@ spec:
   parameters:
     region: "us-east-1"
     ami: "ami-06aa3f7caf3a30282"
-    instanceType: "t2.small"
+    instanceType: "t2.micro"
     keyName: "new-keys"
     Name: "myapp2"
 
